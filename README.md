@@ -1,0 +1,1 @@
+# ms-diary-service-angular-sdk
