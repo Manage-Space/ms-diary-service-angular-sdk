@@ -34,5 +34,9 @@ export interface CreateDiaryEntryRequest {
      * Description
      */
     description: string;
+    /**
+     * Workflow id
+     */
+    workflowId?: string;
 }
 
